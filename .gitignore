@@ -1,0 +1,22 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+
+*png
+*jpg
+*.pyc
+*.pyo
+*.bin
+*.pth
+*.ckpt
+*.pt
+*.zip
+*.Identifier
+
+
+/stable-diffusion/src/clip/
+/stable-diffusion/src/transformer/
+/p1_src/logs/
+
+output/*
+hw2_data/*
